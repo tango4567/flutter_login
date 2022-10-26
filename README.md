@@ -15,4 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-[FlutterFire installation common issue with solution for Mac](https://github.com/tango4567/solutions/issues/48)
+1. [FlutterFire installation common issue with solution for Mac](https://github.com/tango4567/solutions/issues/48)
+2. [How to configure Firebase Authentication](https://firebase.flutter.dev/docs/ui/auth/integrating-your-first-screen)
