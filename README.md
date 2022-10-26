@@ -17,3 +17,14 @@ samples, guidance on mobile development, and a full API reference.
 
 1. [FlutterFire installation common issue with solution for Mac](https://github.com/tango4567/solutions/issues/48)
 2. [How to configure Firebase Authentication](https://firebase.flutter.dev/docs/ui/auth/integrating-your-first-screen)
+
+## Important note
+
+Due to privacy I removed some files from specific location mention below:
+
+1. lib/firebase_options.dart
+2. android/app/google-services.json
+3. ios/firebase_app_id_file.json
+4. ios/Runner/GoogleService-Info.plist
+
+So once you configure your project with firebase then place your configuration files on the proper place as mention above.
