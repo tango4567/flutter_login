@@ -17,6 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 1. [FlutterFire installation common issue with solution for Mac](https://github.com/tango4567/solutions/issues/48)
 2. [How to configure Firebase Authentication](https://firebase.flutter.dev/docs/ui/auth/integrating-your-first-screen)👉[This page is archived and might not reflect the latest version of the FlutterFire plugins. You can find the latest information on GitHub:](https://github.com/firebase/flutterfire/blob/master/packages/flutterfire_ui/doc/auth/integrating-your-first-screen.md)
+
 ## Important note
 
 Due to privacy I removed some files from specific location mention below:
